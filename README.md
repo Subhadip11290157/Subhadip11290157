@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Subhadip Roy. ^_^
-- 👀 I’m interested in ML and passionate in programming
-- 🌱 I’m currently pursuing CSE(B.Tech) at Institue of Engineering and Management, Kolkata
-- 💞️ I’m looking to collaborate on any projects on python, C++
+- 👀 I’m interested in ML and passionate in programming.
+- 🌱 I’m currently pursuing CSE(B.Tech) at Institue of Engineering and Management, Kolkata.
+- 💞️ I’m looking to collaborate on any projects on python, C++.
 - 📫 How to reach me: 
           > my linkedIn profile: https://www.linkedin.com/in/sroyuniquealgo11290157/ 
           > email me at: sroy84766@gmail.com 

@@ -5,7 +5,7 @@
 - 📫 How to reach me:  <pre>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; > my **LinkedIn** _profile_: _[https://www.linkedin.com/in/sroyuniquealgo11290157/](url)_     
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; > email me at: _sroy84766@gmail.com_     
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; > _feel free to have a glance at my_ **blog**: _[https://bits-n-bytes-cse.blogspot.com/](url)_   
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; > _feel free to have a glance at my_ **blog**: _[https://bits-n-bytes-cse.blogspot.com/](url)_
       </pre>
 <!---
 Subhadip11290157/Subhadip11290157 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

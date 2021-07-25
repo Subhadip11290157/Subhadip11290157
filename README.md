@@ -3,7 +3,7 @@
 - 🌱 I’m currently pursuing **CSE(B.Tech)** at Institue of Engineering and Management, Kolkata. [Expected Grad. 2023]
 - 💞️ I’m looking to collaborate on any **Python/C++/ML/AI** project(s).
 - 📫 How to reach me:  <pre>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; > my **LinkedIn** _profile_: _[https://www.linkedin.com/in/sroyuniquealgo11290157/](url)_     
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; > my **LinkedIn** _profile_: https://www.linkedin.com/in/sroyuniquealgo11290157/    
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; > email me at: _sroy84766@gmail.com_     
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; > _feel free to have a glance at my_ **blog**: _[https://bits-n-bytes-cse.blogspot.com/](url)_
       </pre>

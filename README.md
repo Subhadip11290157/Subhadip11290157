@@ -1,7 +1,7 @@
 - 👋 Hi, I’m _**Subhadip Roy**_. ^_^
 - 👀 I’m an ML enthusiast and passionate in programming.
 - 🌱 I’m currently pursuing **CSE(B.Tech)** at Institue of Engineering and Management, Kolkata. [Expected Grad. 2023]
-- 💞️ I’m looking to collaborate on any **Python/C++/ML/AI** project(s).
+- 💞️ I’m looking to collaborate on any **Python/C++/ML** project(s).
 - 📫 How to reach me:  <pre>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; > my **LinkedIn** _profile_: _https://www.linkedin.com/in/sroyuniquealgo11290157/_    
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; > email me at: _sroy84766@gmail.com_     

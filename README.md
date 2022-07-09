@@ -8,12 +8,10 @@ You can click the Preview link to take a look at your changes.
 <!-- Nice to meet you ^_^ -->
 
 <div align="center">
-    <h1>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="45px"> <img src="./resources/CROPPEDezgif-2-267d1a2f34.gif" height="90px"> Welcome to my Codebase <img src="./resources/rocket.gif" height="40px"></h1>
+    <h1>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32px"> <img src="./resources/final.gif" height="65px"> Welcome to my Codebase <img src="./resources/rocket.gif" height="40px"></h1>
     <!-- <img src="./resources/name.gif" height="50px width=75">
     <br><br> -->
-    <img src="./goblin_slayer.gif"  width="400px"/>
 </div>
-
 <hr/>
 
 - 🌱 I’m currently pursuing **CSE(B.Tech)** at Institue of Engineering and Management, Kolkata. [Expected Grad. 2023]

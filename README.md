@@ -8,41 +8,13 @@ You can click the Preview link to take a look at your changes.
 <!-- Nice to meet you ^_^ -->
 
 <div align="center">
-    <h1>Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"> Welcome To My Page <img src="./rocket.gif" height="40px"></h1>
-    <img src="./name.gif" height="40px">
-    <br>
-    <img src="./resources/name.gif" height="60px">
-    <br><br>
+    <h1>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="45px"> <img src="./resources/CROPPEDezgif-2-267d1a2f34.gif" height="90px"> Welcome to my Codebase <img src="./resources/rocket.gif" height="40px"></h1>
+    <!-- <img src="./resources/name.gif" height="50px width=75">
+    <br><br> -->
     <img src="./goblin_slayer.gif"  width="400px"/>
 </div>
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/sroyuniquealgo11290157/">
-      <img align="left" width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
-    </a>
-    <a href="mailto:sroy84766@gmail.com">
-      <img align="left" width="60px" src="https://www.citypng.com/public/uploads/preview/-11597283135pwufcfsb09.png" />
-    </a>
-    <a href="https://www.codechef.com/users/code_master19">
-      <img align="left" width="55px" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" />
-    </a>
-    <a href="https://bits-n-bytes-cse.blogspot.com/">
-      <img align="left" width="50px" src="./resources/Blogspot.png" />
-    </a>
-    <a href="https://www.quora.com/profile/Subh-Ray">
-      <img align="left" width="50px" src="./resources/Quora.png" />
-    </a>
-    <a href="https://www.kaggle.com/ash1starketchup">
-      <img align="left" width="50px" src="./resources/Kaggle.png" />
-    </a>
-</p>
-
-# 👉 my profiles
-
-
 <hr/>
-
-<br>
 
 - 🌱 I’m currently pursuing **CSE(B.Tech)** at Institue of Engineering and Management, Kolkata. [Expected Grad. 2023]
 
@@ -93,7 +65,30 @@ You can click the Preview link to take a look at your changes.
 <br/>
 <br/>
 
-## Connect with me:
+## My profiles:
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/sroyuniquealgo11290157/">
+      <img align="left" width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
+    </a>
+    <a href="mailto:sroy84766@gmail.com">
+      <img align="left" width="60px" src="https://www.citypng.com/public/uploads/preview/-11597283135pwufcfsb09.png" />
+    </a>
+    <a href="https://www.codechef.com/users/code_master19">
+      <img align="left" width="55px" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" />
+    </a>
+    <a href="https://bits-n-bytes-cse.blogspot.com/">
+      <img align="left" width="50px" src="./resources/Blogspot.png" />
+    </a>
+    <a href="https://www.quora.com/profile/Subh-Ray">
+      <img align="left" width="50px" src="./resources/Quora.png" />
+    </a>
+    <a href="https://www.kaggle.com/ash1starketchup">
+      <img align="left" width="50px" src="./resources/Kaggle.png" />
+    </a>
+</p>
+
+
 <!-- <p align="left">
       <a href = "https://www.linkedin.com/in/sroyuniquealgo11290157"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
       <a href = "https://twitter.com/GLight_19"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
@@ -115,8 +110,12 @@ You can click the Preview link to take a look at your changes.
  
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Subhadip11290157/Subhadip11290157) -->
 
+<br><br>
+<hr>
+<br>
+
 <a href="https://visitor-badge.laobi.icu/badge?page_id=Subhadip11290157/Subhadip11290157">
-    <img src="https://komarev.com/ghpvc/?username=Subhadip11290157">
+    <img src="https://komarev.com/ghpvc/?username=Subhadip11290157" height="23px">
 </a>
-<a href="https://github.com/Subhadip11290157?tab=followers"><img src="https://img.shields.io/github/followers/Subhadip11290157?label=Followers&style=social" alt="GitHub Badge">
+<a href="https://github.com/Subhadip11290157?tab=followers"><img src="https://img.shields.io/github/followers/Subhadip11290157?label=Followers&style=social" height="24px" alt="GitHub Badge">
 </a>

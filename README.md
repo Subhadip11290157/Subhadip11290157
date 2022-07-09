@@ -53,7 +53,6 @@ You can click the Preview link to take a look at your changes.
     <a href="https://github.com/Subhadip11290157/github-readme-stats"><img alt="Subhadip Roy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Subhadip11290157&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Subhadip11290157/github-readme-stats"><img alt="Subhadip Roy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhadip11290157&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <br/>

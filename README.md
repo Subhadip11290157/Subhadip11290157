@@ -14,15 +14,15 @@ You can click the Preview link to take a look at your changes.
 </div>
 <hr/>
 
-- 🌱 I’m currently pursuing **CSE(B.Tech)** at Institue of Engineering and Management, Kolkata. [Expected Grad. 2023]
+<body height="15px">
+    
+    🌱 I’m currently pursuing **CSE(B.Tech)** at Institue of Engineering and Management, Kolkata. [Expected Grad. 2023]
 
+    👀 I have worked on computer vision projects.
 
-- 👀 I have worked on computer vision projects.
-
-
-- 💞️  Fav Languages: C++, Python and Java
-
-<br>
+    💞️  Fav Languages: C++, Python and Java
+</body>
+<hr>
 
 
 ### Areas of focus based on contributions :

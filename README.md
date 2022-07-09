@@ -3,24 +3,44 @@ Subhadip11290157/Subhadip11290157 is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-
-## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Subhadip!](https://www.smartr.me/profile) 
+<!-- ## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Subhadip!](https://www.smartr.me/profile) -->
 <!--- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi, I’m _**Subhadip**_! ^_^  -->
 <!-- Nice to meet you ^_^ -->
-<br>
-<br>
-<a href="https://www.linkedin.com/in/sroyuniquealgo11290157/">
-  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
-</a>
-<a href="mailto:sroy84766@gmail.com">
-  <img align="left" width="26px" src="https://www.citypng.com/public/uploads/preview/-11597283135pwufcfsb09.png" />
-</a>
-<a href="https://www.codechef.com/users/code_master19">
-  <img align="left" width="26px" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" />
-</a>
-<a href="https://bits-n-bytes-cse.blogspot.com/">
-  <img align="left" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8HLwARciqS6w-yhb-Hkdercbqn9GWPVZYPtKfjuXjyyKbYTkPG6aq_7K1I4-JXQLHkZs&usqp=CAU" />
-</a>
+
+<div align="center">
+    <h1>Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"> Welcome To My Page <img src="./rocket.gif" height="40px"></h1>
+    <img src="./name.gif" height="40px">
+    <br>
+    <img src="./resources/name.gif" height="60px">
+    <br><br>
+    <img src="./goblin_slayer.gif"  width="400px"/>
+</div>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/sroyuniquealgo11290157/">
+      <img align="left" width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
+    </a>
+    <a href="mailto:sroy84766@gmail.com">
+      <img align="left" width="60px" src="https://www.citypng.com/public/uploads/preview/-11597283135pwufcfsb09.png" />
+    </a>
+    <a href="https://www.codechef.com/users/code_master19">
+      <img align="left" width="55px" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" />
+    </a>
+    <a href="https://bits-n-bytes-cse.blogspot.com/">
+      <img align="left" width="50px" src="./resources/Blogspot.png" />
+    </a>
+    <a href="https://www.quora.com/profile/Subh-Ray">
+      <img align="left" width="50px" src="./resources/Quora.png" />
+    </a>
+    <a href="https://www.kaggle.com/ash1starketchup">
+      <img align="left" width="50px" src="./resources/Kaggle.png" />
+    </a>
+</p>
+
+# 👉 my profiles
+
+
+<hr/>
 
 <br>
 
@@ -33,8 +53,6 @@ You can click the Preview link to take a look at your changes.
 - 💞️  Fav Languages: C++, Python and Java
 
 <br>
-
-
 
 
 #### Areas of focus based on contributions :
@@ -76,11 +94,24 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 ## Connect with me:
-<p align="left">
-<a href = "https://www.linkedin.com/in/sroyuniquealgo11290157"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/GLight_19"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.quora.com/profile/Subh-Ray"><img src="https://www.flaticon.com/free-icon/quora_174865"/></a>
-</p>
+<!-- <p align="left">
+      <a href = "https://www.linkedin.com/in/sroyuniquealgo11290157"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+      <a href = "https://twitter.com/GLight_19"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+      <a href = "https://www.quora.com/profile/Subh-Ray"><img src="https://www.flaticon.com/free-icon/quora_174865"/></a>
+      <a href="https://www.linkedin.com/in/sroyuniquealgo11290157/">
+        <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
+      </a>
+      <a href="mailto:sroy84766@gmail.com">
+        <img align="left" width="26px" src="https://www.citypng.com/public/uploads/preview/-11597283135pwufcfsb09.png" />
+      </a>
+      <a href="https://www.codechef.com/users/code_master19">
+        <img align="left" width="26px" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" />
+      </a>
+      <a href="https://bits-n-bytes-cse.blogspot.com/">
+        <img align="left" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8HLwARciqS6w-yhb-Hkdercbqn9GWPVZYPtKfjuXjyyKbYTkPG6aq_7K1I4-JXQLHkZs&usqp=CAU" />
+      </a>
+</p> 
+-->
  
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Subhadip11290157/Subhadip11290157) -->
 

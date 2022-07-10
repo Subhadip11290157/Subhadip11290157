@@ -17,13 +17,13 @@ You can click the Preview link to take a look at your changes.
     
 - 🌱 I’m currently pursuing **CSE(B.Tech)** at Institue of Engineering and Management, Kolkata. [Expected Grad. 2023]
 
-- 👀 I have worked on Machine Learning projects not restricted to ___image detection___, ___recognition___, ___classification___, ___segmentation___;
-___data augmentation___, ___stock price prediction___ and many more. 
+- 👀 I have worked on Machine Learning projects not restricted to ___image detection___, ___recognition___, ___classification___ and ___segmentation___;
+___data augmentation___, ___object tracking___ _(static and dynamic)_ and many more. 
 
-- Applications of supervised ML and especially Computer Vision like ___OCR___, ___realtime landmarks detection___ on hands (for identifying hand-signs) 
+- 📌 Applications of supervised ML and especially Computer Vision like ___OCR___, ___realtime landmarks detection___ on hands (for identifying hand-signs) 
 and face (for ___gesture recognition___ and ___sentiment analysis___), ___perspective transformation___ are a few of the numerous mind blowing achievements AI has made that has caught my attention and interest.
 
-- Blending these techniques into fascinating ideas and transforming them to reality has been a roller-coaster ride
+- 💡 Blending these techniques into fascinating ideas and transforming them to reality has been a roller-coaster ride
 since the first year of my college life and it still continues.
 
 - 💞️ __Fav Languages__: ***C++*** (for procedural programming), ***Python*** (for ML based projects) and ***Java*** (for Object-Oriented Programming)
@@ -32,7 +32,7 @@ since the first year of my college life and it still continues.
 <hr>
 
 
-### Areas of focus based on contributions :
+### 🎯 Areas of focus based on contributions :
 
 <br/>
 

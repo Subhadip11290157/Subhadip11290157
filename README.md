@@ -17,21 +17,24 @@ You can click the Preview link to take a look at your changes.
     
 - 🌱 I’m currently pursuing **CSE(B.Tech)** at Institue of Engineering and Management, Kolkata. [Expected Grad. 2023]
 
-- 👀 I have worked on Machine Learning projects not restricted to image detection, recognition, classification, segmentation;
-data augmentation, stock price prediction and many more. 
-Applications of supervised ML and especially Computer Vision like OCR, realtime landmarks detection on hands (for identifying hand-signs) 
-and face (for gesture recognition and sentiment analysis), perspective transformation are a few of the numerous mind blowing achievements 
-AI has made that has caught my attention and interest.
-Blending these techniques into fascinating ideas and transforming them to reality has been a roller-coaster ride
+- 👀 I have worked on Machine Learning projects not restricted to ___image detection___, ___recognition___, ___classification___, ___segmentation___;
+___data augmentation___, ___stock price prediction___ and many more. 
+
+- Applications of supervised ML and especially Computer Vision like ___OCR___, ___realtime landmarks detection___ on hands (for identifying hand-signs) 
+and face (for ___gesture recognition___ and ___sentiment analysis___), ___perspective transformation___ are a few of the numerous mind blowing achievements AI has made that has caught my attention and interest.
+
+- Blending these techniques into fascinating ideas and transforming them to reality has been a roller-coaster ride
 since the first year of my college life and it still continues.
 
-- 💞️ Fav Languages: C++ (for procedural programming), Python (for ML based projects) and Java (for Object-Oriented Programming)
-    
+- 💞️ __Fav Languages__: ***C++*** (for procedural programming), ***Python*** (for ML based projects) and ***Java*** (for Object-Oriented Programming)
+   
 
 <hr>
 
 
 ### Areas of focus based on contributions :
+
+<br/>
 
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;&nbsp;
@@ -48,6 +51,8 @@ since the first year of my college life and it still continues.
 ![image](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=Google%20Colab&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/Linux-F9AB00?style=for-the-badge&logo=Linux&logoColor=white)&nbsp;&nbsp;
 
+<br/>
+
 <p align="center">
     <a href="https://github.com/Subhadip11290157/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subhadip Roy's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Subhadip11290157&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -55,20 +60,16 @@ since the first year of my college life and it still continues.
 </p>
 
 ## 📊 Activities
-  <br/>
-    <a href="https://github.com/Subhadip11290157/github-readme-stats"><img alt="Subhadip Roy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Subhadip11290157&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  
+  
+  <a href="https://github.com/Subhadip11290157/github-readme-stats"><img alt="Subhadip Roy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Subhadip11290157&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Subhadip11290157/github-readme-stats"><img alt="Subhadip Roy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhadip11290157&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-
-<br/>
-<br/>
 
 <a href="https://github.com/Subhadip11290157/github-readme-activity-graph"><img alt="Subhadip Roy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Subhadip11290157&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<br/>
 
-## My profiles:
+## 🙋🏻‍♂️ My profiles:
 
 <p align="center">
     <a href="https://www.linkedin.com/in/sroyuniquealgo11290157/">
@@ -91,6 +92,7 @@ since the first year of my college life and it still continues.
     </a>
 </p>
 
+<br/>
 
 <!-- <p align="left">
       <a href = "https://www.linkedin.com/in/sroyuniquealgo11290157"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>

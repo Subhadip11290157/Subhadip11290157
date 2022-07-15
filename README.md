@@ -7,6 +7,10 @@ You can click the Preview link to take a look at your changes.
 <!--- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi, I’m _**Subhadip**_! ^_^  -->
 <!-- Nice to meet you ^_^ -->
 
+
+[![Gitty Banner](./resources/banner.png)](https://www.linkedin.com/in/sroyuniquealgo11290157)
+
+
 <div align="center">
     <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32px"> <img src="./resources/final.gif" height="65px"> Welcome to my Codebase <img src="./resources/rocket.gif" height="40px"></h1>
     <!-- <img src="./resources/name.gif" height="50px width=75">

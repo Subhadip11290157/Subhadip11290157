@@ -127,7 +127,7 @@ since the first year of my college life and it still continues.
 <br>
 
 <!-- Snake-Game like effect : eating the contributions - just an animation effect -->
-## Yipeee! I'm glad You came this far ^_^ That's not all abut me though, you'll love to know that I .....
+### Yipeee! I'm glad You came this far ^_^ That's not all abut me though, you'll love to know that I .....
 Oh no! not that snake again🤯 Ugghh. It's eating up all my contributions. Seems I've got a problem to fix. See you later 👋
 
 ![snake gif](https://github.com/Subhadip11290157/Subhadip11290157/blob/output/github-contribution-grid-snake.gif)

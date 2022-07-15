@@ -138,8 +138,11 @@ since the first year of my college life and it still continues.
 </a>
 
 <br>
+<br>
+
 
 <!-- Snake-Game like effect : eating the contributions - just an animation effect -->
+
 ### Yipeee! I'm glad You came this far ^_^  That's not all about me though, you'll love to know that I .....
 Oh no! not that snake again🤯 Ugghh. It's eating up all my contributions. Seems I've got a problem to fix. See you later 👋
 

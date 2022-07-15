@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 <!-- Nice to meet you ^_^ -->
 
 
-[![Gitty Banner](./resources/banner.png)](https://www.linkedin.com/in/sroyuniquealgo11290157)
+[![Gitty Banner](./resources/banner_rectangular.png)](https://www.linkedin.com/in/sroyuniquealgo11290157)
 
 
 <div align="center">

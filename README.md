@@ -8,8 +8,9 @@ You can click the Preview link to take a look at your changes.
 <!-- Nice to meet you ^_^ -->
 
 
-[![Gitty Banner](./resources/banners/banner_space_padded.png)](https://www.linkedin.com/in/sroyuniquealgo11290157)
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+[![Gitty Banner](./resources/banners/cursive_big_pattern_size.png)](https://www.linkedin.com/in/sroyuniquealgo11290157)
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
+<img align="right" alt="Coding" width="400" src="./resources/coder_original.gif">
 
 <div align="center">
     <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32px"> <img src="./resources/final.gif" height="65px"> Welcome to my Codebase <img src="./resources/rocket.gif" height="40px"></h1>
@@ -75,7 +76,8 @@ since the first year of my college life and it still continues.
 
 ## 🏆 Trophies earned:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Subhadip11290157&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Subhadip11290157&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Subhadip11290157&column=10&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 

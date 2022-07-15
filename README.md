@@ -76,6 +76,7 @@ since the first year of my college life and it still continues.
 
 ## 🏆 Trophies earned:
 
+<!-- reference : https://github.com/ryo-ma/github-profile-trophy -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Subhadip11290157&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy) -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=Subhadip11290157&column=10&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 

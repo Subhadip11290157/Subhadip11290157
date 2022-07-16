@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Gitty Banner](./resources/banners/cursive_big_pattern_size.png)](https://www.linkedin.com/in/sroyuniquealgo11290157)
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
-<img align="right" alt="coding" width="400" src="./resources/coder.gif">
+<img align="right" alt="coding" width="400" src="./resources/coder_light.gif">
 
 <div align="center">
     <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32px"> <img src="./resources/final.gif" height="65px"> Welcome to my Codebase <img src="./resources/rocket.gif" height="40px"></h1>

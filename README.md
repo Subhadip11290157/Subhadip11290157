@@ -121,7 +121,7 @@ since the first year of my college life and it still continues.
 <br/>
 <br/>
 
-## 🏢 Professional group activities and Hackathons
+## 🏢 Working committees, contests and hackathons
 <!--  -->
 <p align="center">
     <a href="https://www.linkedin.com/company/iemcc/">
@@ -129,6 +129,18 @@ since the first year of my college life and it still continues.
     </a>
     <a href="https://s4ds.org/">
       <img align="left" height="66px" width="62px" src="./resources/logo_s4ds.png"  />
+    </a>
+    <a href="https://www.deeplearning.ai/">
+      <img align="left" height="66px" width="62px" src="./resources/logo_deeplearning_ai.png"  />
+    </a>
+    <a href="https://www.scaler.com/">
+      <img align="left" height="66px" width="62px" src="./resources/logo_scaler.png"  />
+    </a>
+    <a href="https://iemsc.uem.edu.in/">
+      <img align="left" height="66px" width="62px" src="./resources/logo_iemsc.png"  />
+    </a>
+    <a href="https://events.vtools.ieee.org/m/204291">
+      <img align="left" height="66px" width="62px" src="./resources/logo_SMF2019.png"  />
     </a>
 </p>
 

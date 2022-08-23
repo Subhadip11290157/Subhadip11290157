@@ -134,7 +134,7 @@ since the first year of my college life and it still continues.
       <img align="left" height="66px" width="62px" src="./resources/logo_deeplearning_ai.png"  />
     </a>
     <a href="http://scienceindiafest.org/">
-      <img align="left" height="66px" width="62px" src="./resources/logo_iisf.png"  />
+      <img align="left" height="66px" width="62px" src="./resources/logo_iisf2021.png"  />
     </a>
     <a href="https://www.scaler.com/">
       <img align="left" height="66px" width="62px" src="./resources/logo_scaler.png"  />

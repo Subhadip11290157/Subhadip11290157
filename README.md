@@ -87,16 +87,16 @@ since the first year of my college life and it still continues.
 
 <p align="center">
     <a href="https://www.oracle.com/">
-      <img align="left" height="70px" width="74px" src="./resources/logo_oracle-3.png" />
+      <img align="left" height="72px" width="80px" src="./resources/logo_oracle-3.png" />
     </a>
     <a href="http://www.iitkgp.ac.in/">
       <img align="left" height="80px" width="60px" src="./resources/logo_iit_kgp3.png" />
     </a>
     <a href="http://iedc.iemecell.com/">
-      <img align="left" height="66px" width="70px" src="./resources/logo_iedc.png" />
+      <img align="left" height="66px" width="90px" src="./resources/logo_iedc.png" />
     </a>
     <a href="https://www.rivan.in/">
-      <img align="left" height="67px" width="70px" src="./resources/logo_rivan_solutions.png" />
+      <img align="left" height="67px" width="85px" src="./resources/logo_rivan_solutions.png" />
     </a>
     <a href="https://geeksgod.com/">
       <img align="left" height="85px" width="70px" src="./resources/logo_geeksgod.png" />
@@ -123,7 +123,7 @@ since the first year of my college life and it still continues.
 <!--  -->
 <p align="center">
     <a href="hthttps://www.linkedin.com/company/iemcc/">
-      <img align="left" height="75px" width="75px" src="./resources/logo_iemcc.png"  />
+      <img align="left" height="68px" width="70px" src="./resources/logo_iemcc.png"  />
     </a>
 </p>
 

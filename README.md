@@ -87,22 +87,31 @@ since the first year of my college life and it still continues.
 
 <p align="center">
     <a href="https://iem.edu.in/">
-      <img align="left" height="60px" width="82px" src="./resources/logo_iem-2.png"  />
+      <img align="left" height="64px" width="82px" src="./resources/logo_iem-2.png"  />
     </a>
     <a href="https://www.aicra.org/">
-      <img align="left" width="82px" src="./resources/logo_aicra.png" />
+      <img align="left" height="68px" width="82px" src="./resources/logo_aicra.png" />
     </a>
     <a href="https://www.smartknower.com/internship-for-students">
-      <img align="left" height="65px" width="60px" src="./resources/logo_smartknower-2.png" />
+      <img align="left" height="68px" width="60px" src="./resources/logo_smartknower-2.png" />
     </a>
     <a href="https://www.ecell.in/2020/">
-      <img align="left" height="65px" width="60px" src="./resources/logo_iitb_e-cell.png" />
+      <img align="left" height="68px" width="60px" src="./resources/logo_iitb_e-cell.png" />
     </a>
     <a href="https://geeksgod.com/">
       <img align="left" height="85px" width="70px" src="./resources/logo_geeksgod.png" />
     </a>
     <a href="https://www.rivan.in/">
-      <img align="left" height="85px" width="70px" src="./resources/logo_rivan_solutions.png" />
+      <img align="left" height="67px" width="70px" src="./resources/logo_rivan_solutions.png" />
+    </a>
+    <a href="http://iedc.iemecell.com/">
+      <img align="left" height="66px" width="70px" src="./resources/logo_iedc.png" />
+    </a>
+    <a href="http://www.iitkgp.ac.in/">
+      <img align="left" height="68px" width="65px" src="./resources/logo_iit_kgp.png" />
+    </a>
+    <a href="http://iedc.iemecell.com/">
+      <img align="left" height="55px" width="70px" src="./resources/logo_iedc.png" />
     </a>
 </p>
 

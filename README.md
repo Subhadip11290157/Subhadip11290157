@@ -110,8 +110,8 @@ since the first year of my college life and it still continues.
     <a href="http://www.iitkgp.ac.in/">
       <img align="left" height="68px" width="65px" src="./resources/logo_iit_kgp.png" />
     </a>
-    <a href="http://iedc.iemecell.com/">
-      <img align="left" height="55px" width="70px" src="./resources/logo_iedc.png" />
+    <a href="https://www.oracle.com/">
+      <img align="left" height="68px" width="70px" src="./resources/logo_oracle-3.png" />
     </a>
 </p>
 

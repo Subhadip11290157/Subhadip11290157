@@ -89,8 +89,20 @@ since the first year of my college life and it still continues.
     <a href="https://iem.edu.in/">
       <img align="left" height="60px" width="82px" src="./resources/logo_iem-2.png"  />
     </a>
-    <a href="mailto:sroy84766@gmail.com">
+    <a href="https://www.aicra.org/">
       <img align="left" width="82px" src="./resources/logo_aicra.png" />
+    </a>
+    <a href="https://www.smartknower.com/internship-for-students">
+      <img align="left" height="65px" width="60px" src="./resources/logo_smartknower-2.png" />
+    </a>
+    <a href="https://www.ecell.in/2020/">
+      <img align="left" height="65px" width="60px" src="./resources/logo_iitb_e-cell.png" />
+    </a>
+    <a href="https://geeksgod.com/">
+      <img align="left" height="85px" width="70px" src="./resources/logo_geeksgod.png" />
+    </a>
+    <a href="https://www.rivan.in/">
+      <img align="left" height="85px" width="70px" src="./resources/logo_rivan_solutions.png" />
     </a>
 </p>
 

@@ -87,10 +87,10 @@ since the first year of my college life and it still continues.
 
 <p align="center">
     <a href="https://iem.edu.in/">
-      <img align="left" height="65px" width="80px" src="./resources/logo_iem2.png"  />
+      <img align="left" height="60px" width="82px" src="./resources/logo_iem-2.png"  />
     </a>
     <a href="mailto:sroy84766@gmail.com">
-      <img align="left" width="80px" src="./resources/logo_aicra.png" />
+      <img align="left" width="82px" src="./resources/logo_aicra.png" />
     </a>
 </p>
 

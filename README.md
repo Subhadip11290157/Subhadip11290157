@@ -110,23 +110,25 @@ since the first year of my college life and it still continues.
     <a href="https://www.aicra.org/">
       <img align="left" height="68px" width="82px" src="./resources/logo_aicra.png" />
     </a>
+<!--     
     <a href="https://iem.edu.in/">
       <img align="left" height="64px" width="82px" src="./resources/logo_iem-2.png"  />
-    </a>
+    </a> 
+-->
 </p>
 
 <br/>
 <br/>
 <br/>
 
-## 🏢 Professional societies served in
+## 🏢 Voluntary contributions in professional groups
 <!--  -->
 <p align="center">
     <a href="https://www.linkedin.com/company/iemcc/">
       <img align="left" height="68px" width="62px" src="./resources/logo_iemcc.png"  />
     </a>
     <a href="https://s4ds.org/">
-      <img align="left" height="65px" width="62px" src="./resources/logo_s4ds.png"  />
+      <img align="left" height="66px" width="62px" src="./resources/logo_s4ds.png"  />
     </a>
 </p>
 

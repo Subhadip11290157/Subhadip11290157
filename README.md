@@ -126,7 +126,7 @@ since the first year of my college life and it still continues.
       <img align="left" height="68px" width="62px" src="./resources/logo_iemcc.png"  />
     </a>
     <a href="https://s4ds.org/">
-      <img align="left" height="68px" width="62px" src="./resources/logo_s4ds.png"  />
+      <img align="left" height="65px" width="62px" src="./resources/logo_s4ds.png"  />
     </a>
 </p>
 

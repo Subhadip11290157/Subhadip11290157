@@ -87,7 +87,7 @@ since the first year of my college life and it still continues.
 
 <p align="center">
     <a href="https://www.oracle.com/">
-      <img align="left" height="70px" width="74px" src="./resources/logo_oracle-3.png" />
+      <img align="left" height="70px" width="80px" src="./resources/logo_oracle-3.png" />
     </a>
     <a href="http://www.iitkgp.ac.in/">
       <img align="left" height="80px" width="60px" src="./resources/logo_iit_kgp3.png" />
@@ -122,8 +122,11 @@ since the first year of my college life and it still continues.
 ## 🏢 Professional societies served in
 <!--  -->
 <p align="center">
-    <a href="hthttps://www.linkedin.com/company/iemcc/">
+    <a href="https://www.linkedin.com/company/iemcc/">
       <img align="left" height="68px" width="62px" src="./resources/logo_iemcc.png"  />
+    </a>
+    <a href="https://s4ds.org/">
+      <img align="left" height="68px" width="62px" src="./resources/logo_s4ds.png"  />
     </a>
 </p>
 

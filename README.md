@@ -142,6 +142,9 @@ since the first year of my college life and it still continues.
     <a href="https://events.vtools.ieee.org/m/204291">
       <img align="left" height="66px" width="62px" src="./resources/logo_SMF2019.png"  />
     </a>
+    <a href="">
+      <img align="left" height="66px" width="62px" src="./resources/logo_iemsc.png"  />
+    </a>
 </p>
 
 <br/>

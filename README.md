@@ -133,17 +133,20 @@ since the first year of my college life and it still continues.
     <a href="https://www.deeplearning.ai/">
       <img align="left" height="66px" width="62px" src="./resources/logo_deeplearning_ai.png"  />
     </a>
+    <a href="http://scienceindiafest.org/">
+      <img align="left" height="66px" width="62px" src="./resources/logo_iisf.png"  />
+    </a>
     <a href="https://www.scaler.com/">
       <img align="left" height="66px" width="62px" src="./resources/logo_scaler.png"  />
     </a>
     <a href="https://iemsc.uem.edu.in/">
       <img align="left" height="66px" width="62px" src="./resources/logo_iemsc.png"  />
     </a>
+    <a href="https://iem.edu.in/news-events/iemphys-19/">
+      <img align="left" height="66px" width="62px" src="./resources/logo_iemphys19.png"  />
+    </a>
     <a href="https://events.vtools.ieee.org/m/204291">
       <img align="left" height="66px" width="62px" src="./resources/logo_SMF2019.png"  />
-    </a>
-    <a href="">
-      <img align="left" height="66px" width="62px" src="./resources/logo_iemsc.png"  />
     </a>
 </p>
 

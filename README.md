@@ -74,12 +74,28 @@ since the first year of my college life and it still continues.
 
 <br/>
 
-## 🏆 Trophies
+<!-- ## 🏆 Trophies -->
 
 <!-- reference : https://github.com/ryo-ma/github-profile-trophy -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Subhadip11290157&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy) -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=Subhadip11290157&theme=monokai&column=10&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+<br/>
+
+## 🏢 Companies I worked for / got an employment offer from
+<!-- emoji source : emojipedia or any other realated site -->
+
+<p align="center">
+    <a href="https://iem.edu.in/">
+      <img align="left" height="65px" width="80px" src="./resources/logo_iem2.png"  />
+    </a>
+    <a href="mailto:sroy84766@gmail.com">
+      <img align="left" width="80px" src="./resources/logo_aicra.png" />
+    </a>
+</p>
+
+<br/>
+<br/>
 <br/>
 
 ## 🙋🏻‍♂️ My profiles

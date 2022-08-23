@@ -121,7 +121,7 @@ since the first year of my college life and it still continues.
 <br/>
 <br/>
 
-## 🏢 Voluntary contributions in professional groups
+## 🏢 Professional group activities and Hackathons
 <!--  -->
 <p align="center">
     <a href="https://www.linkedin.com/company/iemcc/">

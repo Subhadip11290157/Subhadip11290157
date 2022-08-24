@@ -130,11 +130,14 @@ since the first year of my college life and it still continues.
     <a href="https://s4ds.org/">
       <img align="left" height="66px" width="62px" src="./resources/logo_s4ds.png"  />
     </a>
-    <a href="https://www.deeplearning.ai/">
+    <a href="https://www.iem-innovacion.com/">
+      <img align="left" height="66px" width="75px" src="./resources/logo_inno-2022.png"  />
+    </a>
+    <a href="https://https-deeplearning-ai.github.io/data-centric-comp/">
       <img align="left" height="66px" width="62px" src="./resources/logo_deeplearning_ai.png"  />
     </a>
     <a href="http://scienceindiafest.org/">
-      <img align="left" width="62px" src="./resources/logo_iisf2021.png"  />
+      <img align="left" height="68px" width="75px" src="./resources/logo_iisf21.png"  />
     </a>
     <a href="https://www.scaler.com/">
       <img align="left" height="66px" width="62px" src="./resources/logo_scaler.png"  />

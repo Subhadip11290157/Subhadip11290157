@@ -121,7 +121,7 @@ since the first year of my college life and it still continues.
 <br/>
 <br/>
 
-## 🏢 Working committees, contests and hackathons
+## 🏢 Working committees, conferences, contests and hackathons
 <!--  -->
 <p align="center">
     <a href="https://www.linkedin.com/company/iemcc/">
@@ -130,8 +130,8 @@ since the first year of my college life and it still continues.
     <a href="https://s4ds.org/">
       <img align="left" height="66px" width="62px" src="./resources/logo_s4ds.png"  />
     </a>
-    <a href="https://www.iem-innovacion.com/">
-      <img align="left" height="66px" width="75px" src="./resources/logo_inno-2022.png"  />
+    <a href="https://www.iem-innovacion.com/index.html#about">
+      <img align="left" height="66px" width="80px" src="./resources/logo_inno-2022.png"  />
     </a>
     <a href="https://https-deeplearning-ai.github.io/data-centric-comp/">
       <img align="left" height="66px" width="62px" src="./resources/logo_deeplearning_ai.png"  />
@@ -139,8 +139,8 @@ since the first year of my college life and it still continues.
     <a href="http://scienceindiafest.org/">
       <img align="left" height="68px" width="75px" src="./resources/logo_iisf21.png"  />
     </a>
-    <a href="https://www.scaler.com/">
-      <img align="left" height="66px" width="62px" src="./resources/logo_scaler.png"  />
+    <a href="doi.org/10.15864/ijelts.3212">
+      <img align="left" height="66px" width="62px" src="./resources/logo_icelts.png"  />
     </a>
     <a href="https://iemsc.uem.edu.in/">
       <img align="left" height="66px" width="62px" src="./resources/logo_iemsc.png"  />

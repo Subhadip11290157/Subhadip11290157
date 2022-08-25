@@ -82,7 +82,7 @@ since the first year of my college life and it still continues.
 
 <br/>
 
-## ![image](./resources/b%20(1).png) Companies I worked for / got an employment offer from
+## ![image](./resources/icon_company.png) Companies I worked for/got an employment offer from
 <!-- emoji source : emojipedia or any other realated site -->
 
 <p align="center">
@@ -120,8 +120,11 @@ since the first year of my college life and it still continues.
 <br/>
 <br/>
 <br/>
+<br/>
 
-## 🏢 Working committees, conferences, contests and hackathons
+## ![image](./resources/logo_company-2.png) Working committees, conferences, contests and hackathons
+
+
 <!--  -->
 <p align="center">
     <a href="https://www.linkedin.com/company/iemcc/">
@@ -150,6 +153,7 @@ since the first year of my college life and it still continues.
     </a>
 </p>
 
+<br/>
 <br/>
 <br/>
 <br/>

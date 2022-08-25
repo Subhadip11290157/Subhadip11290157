@@ -82,7 +82,7 @@ since the first year of my college life and it still continues.
 
 <br/>
 
-## 🏢 Companies I worked for / got an employment offer from
+## ![image](./resources/b%20(1).png) Companies I worked for / got an employment offer from
 <!-- emoji source : emojipedia or any other realated site -->
 
 <p align="center">

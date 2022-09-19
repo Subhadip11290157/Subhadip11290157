@@ -128,7 +128,7 @@ since the first year of my college life and it still continues.
 <!--  -->
 <p align="center">
     <a href="https://www.linkedin.com/company/iemcc/">
-      <img align="left" height="68px" width="68px" src="./resources/logo_iemcc.png"  />
+      <img align="left" height="68px" width="60px" src="./resources/logo_iemcc.png"  />
     </a>
     <a href="https://s4ds.org/">
       <img align="left" height="68px" width="66px" src="./resources/logo_s4ds.png"  />

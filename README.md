@@ -134,7 +134,7 @@ since the first year of my college life and it still continues.
       <img align="left" height="66px" width="62px" src="./resources/logo_s4ds.png"  />
     </a>
     <a href="doi.org/10.15864/ijelts.3212">
-      <img align="left" height="66px" width="62px" src="./resources/logo_icelts-3_white_bg.png"  />
+      <img align="left" height="66px" width="62px" src="./resources/logo_icelts-3_white_bg.jpg"  />
     </a>
     <a href="https://iemsc.uem.edu.in/">
       <img align="left" height="66px" width="62px" src="./resources/logo_iemsc.png"  />

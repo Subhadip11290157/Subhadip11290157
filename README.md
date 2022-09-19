@@ -131,25 +131,25 @@ since the first year of my college life and it still continues.
       <img align="left" height="68px" width="56px" src="./resources/logo_iemcc.png"  />
     </a>
     <a href="https://s4ds.org/">
-      <img align="left" height="66px" width="62px" src="./resources/logo_s4ds.png"  />
+      <img align="left" height="68px" width="66px" src="./resources/logo_s4ds.png"  />
     </a>
     <a href="doi.org/10.15864/ijelts.3212">
-      <img align="left" height="66px" width="62px" src="./resources/logo_icelts-3_white_bg.jpg"  />
+      <img align="left" height="68px" width="98px" src="./resources/logo_icelts-3_white_bg.jpg"  />
     </a>
     <a href="https://iemsc.uem.edu.in/">
-      <img align="left" height="66px" width="62px" src="./resources/logo_iemsc.png"  />
+      <img align="left" height="68px" width="68px" src="./resources/logo_iemsc.png"  />
     </a>
     <a href="https://iem.edu.in/news-events/iemphys-19/">
-      <img align="left" height="66px" width="62px" src="./resources/logo_iemphys19.png"  />
+      <img align="left" height="68px" width="68px" src="./resources/logo_iemphys19.png"  />
     </a>
     <a href="https://https-deeplearning-ai.github.io/data-centric-comp/">
-      <img align="left" height="66px" width="62px" src="./resources/logo_deeplearning_ai.png"  />
+      <img align="left" height="68px" width="66px" src="./resources/logo_deeplearning_ai.png"  />
     </a>
     <a href="https://www.iem-innovacion.com/index.html#about">
-      <img align="left" height="66px" width="80px" src="./resources/logo_inno-2022.png"  />
+      <img align="left" height="68px" width="80px" src="./resources/logo_inno-2022.png"  />
     </a>
     <a href="https://events.vtools.ieee.org/m/204291">
-      <img align="left" height="66px" width="62px" src="./resources/logo_SMF2019.png"  />
+      <img align="left" height="68px" width="66px" src="./resources/logo_SMF2019.png"  />
     </a>
 </p>
 

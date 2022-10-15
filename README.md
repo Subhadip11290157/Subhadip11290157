@@ -81,10 +81,9 @@ since the first year of my college life and it still continues.
 [![trophy](https://github-profile-trophy.vercel.app/?username=Subhadip11290157&theme=monokai&column=10&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
-
-## ![image](./resources/icon_company.png) Companies I worked for/got an employment offer from
+<!-- ## ![image](./resources/icon_company.png) Companies I worked for/got an employment offer from -->
 <!-- emoji source : emojipedia or any other realated site -->
-
+<!--
 <p align="center">
     <a href="https://www.oracle.com/">
       <img align="left" height="70px" width="80px" src="./resources/logo_oracle-3.png" />
@@ -110,17 +109,13 @@ since the first year of my college life and it still continues.
     <a href="https://www.aicra.org/">
       <img align="left" height="68px" width="82px" src="./resources/logo_aicra.png" />
     </a>
+-->
 <!--     
     <a href="https://iem.edu.in/">
       <img align="left" height="64px" width="82px" src="./resources/logo_iem-2.png"  />
     </a> 
 -->
 </p>
-
-<br/>
-<br/>
-<br/>
-<br/>
 
 ## ![image](./resources/logo_company-2.png) Working committees, conferences, contests and hackathons
 
@@ -162,22 +157,22 @@ since the first year of my college life and it still continues.
 
 <p align="center">
     <a href="https://www.linkedin.com/in/sroyuniquealgo11290157/">
-      <img align="left" width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
+      <img align="left" width="56px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
     </a>
     <a href="mailto:sroy84766@gmail.com">
-      <img align="left" width="60px" src="https://www.citypng.com/public/uploads/preview/-11597283135pwufcfsb09.png" />
+      <img align="left" width="66px" src="https://www.citypng.com/public/uploads/preview/-11597283135pwufcfsb09.png" />
     </a>
     <a href="https://www.codechef.com/users/code_master19">
       <img align="left" width="55px" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" />
     </a>
     <a href="https://bits-n-bytes-cse.blogspot.com/">
-      <img align="left" width="50px" src="./resources/Blogspot.png" />
+      <img align="left" width="55px" src="./resources/Blogspot.png" />
     </a>
     <a href="https://www.quora.com/profile/Subh-Ray">
-      <img align="left" width="50px" src="./resources/Quora.png" />
+      <img align="left" width="57px" src="./resources/Quora.png" />
     </a>
     <a href="https://www.kaggle.com/ash1starketchup">
-      <img align="left" width="50px" src="./resources/Kaggle.png" />
+      <img align="left" width="56px" src="./resources/Kaggle.png" />
     </a>
 </p>
 
